@@ -1,0 +1,31 @@
+
+
+    .video-description
+    {
+        display: inline-block;
+        width:200px;
+    }
+    
+ .page-Title {
+    font-weight: bold;
+    font-size: 18px;
+    width: 280px;
+    line-height: 24px;
+    margin-bottom: 5px;
+
+  }
+  
+  .page-status {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+  }
+  
+  
+  
+  .page-author {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+  }
+  
